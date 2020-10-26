@@ -1,0 +1,28 @@
+{
+	"pattrstorage" : 	{
+		"name" : "multiPresets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"avrecordr::codec" : [ 0 ],
+					"avrecordr::framerate" : [ 30 ],
+					"pixl8r::horiz" : [ 0.644251968503937 ],
+					"pixl8r::vert" : [ 0.33 ],
+					"slidr::up" : [ 0.0 ],
+					"slidr::down" : [ 96.0 ],
+					"bp.Feedback Delay::Feedback" : [ -8.110331322039862 ],
+					"bp.Feedback Delay::HPF" : [ 20.0 ],
+					"bp.Feedback Delay::LPF" : [ 20000.0 ],
+					"bp.Feedback Delay::Mix" : [ 50.0 ],
+					"bp.Feedback Delay::bypass" : [ 0.0 ],
+					"bp.Feedback Delay::time" : [ 200.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
